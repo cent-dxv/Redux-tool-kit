@@ -11,8 +11,7 @@ const Profile = () => {
   //old user 
   // const user = useSelector((state) => state.user);
  const [toggle, settoggle] = useState(true)
- console.log(  'color' + color.color)
- console.log(  'user' + user.name)
+
 
  return (
     <div>
